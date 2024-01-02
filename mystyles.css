@@ -1,0 +1,74 @@
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 1.5px 1.5px 1px #000000;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+li {
+    margin-bottom: 20px;
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.bold {
+    font-family: 'Gurmukhi MN', serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+ul {
+    margin: 10px 0;
+    list-style-image: url('images/checkbox.jpg');
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+a:link {
+    color: #B38986;
+    text-decoration: none;
+    -webkit-text-stroke: 0.3px black;
+}
+
+a:visited {
+    color: #B38986;
+    text-decoration: none;
+    -webkit-text-stroke: 0.3px black;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+    -webkit-text-stroke: 0.3px black;
+}
+
+table {
+    background-color: #ffffff; padding: 25px;  
+}
+
+body {
+/*    background-color: rgba(72, 100, 123, 1);*/
+    background-color: rgba(14, 42, 64, 0.8);
+}
+
+
+
+
+
+
+
+
